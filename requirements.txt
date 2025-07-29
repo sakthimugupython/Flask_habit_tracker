@@ -4,5 +4,4 @@ Flask-Login
 Flask-WTF
 WTForms
 email-validator
-chart.js
 gunicorn
